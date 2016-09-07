@@ -6,3 +6,8 @@ object mariela {
 		return "Leer"
 	}
 }
+object maria {
+	method hobby(){
+		return "Ir al cine"
+	}
+}
