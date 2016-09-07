@@ -10,3 +10,9 @@ test "testear el hobby de maria" {
 	assert.equals("Ir al cine", maria.hobby())
 	
 }
+
+test "testear el hobby de edson" {
+	
+	assert.equals("escribir", edson.hobby())
+	
+}
