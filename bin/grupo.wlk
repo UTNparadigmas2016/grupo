@@ -11,3 +11,7 @@ object maria {
 		return "Ir al cine"
 	}
 }
+object edson {
+	method hobby(){
+		return "escribir"
+	}
