@@ -15,3 +15,4 @@ object edson {
 	method hobby(){
 		return "escribir"
 	}
+}
